@@ -1,5 +1,6 @@
 "use client";
 
+export const dynamic = "force-static";
 import { useState, useRef, useEffect } from "react";
 import {
   ChevronRight,
